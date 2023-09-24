@@ -1,5 +1,6 @@
 streamlit
 PyPDF2
 gTTS
+upgrade
 pytesseract
 pillow
